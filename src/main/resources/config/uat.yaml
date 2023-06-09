@@ -1,0 +1,11 @@
+http:
+  listener:
+    host: "localhost"
+    port: "8081"
+    path: "/travelOnTipCall/{serviceType}"
+    
+db:
+  URL: "jdbc:postgresql://localhost:5455/postgres"
+  Driver class name: "org.postgresql.Driver"
+  User: "postgres"
+  Password: "postgres"
