@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_032eed0a_78dc_46c9_be11_e6e68019de4a_Output_Payload = Array<{|  originlocationcode?: String,   destinationlocationcode?: String,   companyname?: String|}>
+
